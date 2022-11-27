@@ -1,0 +1,52 @@
+@media screen and (max-width: 1750px){
+    .curio{
+        margin-top: 20px;
+        position: absolute;
+        margin-left: 880px;
+    }
+
+    .d_perso{
+        margin-top: 500px;
+        margin-left: -880px;
+        position: absolute;
+        max-width: 100%;
+    }
+
+    .personagens_n{
+        position: absolute;
+        margin-top: -390px;
+    }
+
+    #personagens_{
+        margin-top: 5px;
+        
+    }
+
+    .elenco{
+        margin-left: 950px;
+        margin-top: 470px;
+    }
+    
+    .elenco1{
+        width: 600px;
+        
+    }
+
+
+
+    .fim{
+        margin-left: 880px;
+        width: 100%;
+        
+    }
+
+
+    .icons{
+        margin-left: 45%;
+        
+    }
+
+    #faceb{
+        position: absolute;
+    }
+}
